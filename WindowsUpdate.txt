@@ -1,3 +1,7 @@
+fd.api.iris.microsoft.com
+otelrules.svc.static.microsoft
+tas02.cws.update.microsoft.com
+tas02.sls.update.microsoft.com
 default.exp-tas.com
 fp-afd.azurefd.net
 windowsupdate.com
@@ -92,4 +96,5 @@ v20.events.data.microsoft.com
 definitionupdates.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
+
 
