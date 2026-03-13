@@ -1,0 +1,5 @@
+update.googleapis.com
+dl.google.com
+addons.mozilla.org
+addons.opera.com
+
